@@ -6,11 +6,10 @@ Calculadora desenvolvida em **Python** utilizando **PySide6**, com interface gr�
 
 ## Funcionalidades
 
-- Operações básicas: soma, subtração, multiplicação e divisão.
-- Interface gráfica intuitiva e responsiva.
-- Tema escuro opcional (via `qdarkstyle`).
-- Validação de entradas para evitar erros.
-
+- **Operações básicas**: potência, soma, subtração, multiplicação e divisão
+- **Interface gráfica intuitiva**
+- **Tema escuro** (via `qdarkstyle`)
+- **Validação de entradas** para evitar erros
 ---
 
 ## Tecnologias Utilizadas
